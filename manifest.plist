@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.github.com</string>
+					<string>https://github.com/zc821017/tyc/blob/master/tyc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.github.com</string>
+					<string>https://github.com/zc821017/tyc/blob/master/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.github.com</string>
+					<string>https://github.com/zc821017/tyc/blob/master/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>tyc</string>
+				<string>泰有财</string>
 			</dict>
 		</dict>
 	</array>
