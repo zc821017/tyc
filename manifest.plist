@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/zc821017/tyc/blob/master/57.png</string>
+					<string>http://192.168.2.236:8080/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/zc821017/tyc/blob/master/512.png</string>
+					<string>http://192.168.2.236:8080/521.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
